@@ -1,4 +1,3 @@
-<div align="center">
 # Phat Hong
 **Software Engineer · Angular & TypeScript**
 [![Portfolio](https://img.shields.io/badge/Portfolio-hpphat1992.vercel.app-0366d6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hpphat1992.vercel.app/)
