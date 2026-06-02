@@ -1,27 +1,49 @@
-# Phat Hong
-**Software Engineer · Angular & TypeScript**
----
-[![Portfolio](https://img.shields.io/badge/Portfolio-hpphat1992.vercel.app-0366d6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hpphat1992.vercel.app/)
-[![Desktop demo](https://img.shields.io/badge/Desktop_Portfolio-live-7c3aed?style=for-the-badge&logo=angular&logoColor=white)](https://hpphat1992-v2.vercel.app/)
+<h1 align="center">Phat Hong</h1>
 
-## About
-I build interactive, production-oriented web applications with **Angular**, **TypeScript**, and modern UI patterns. My open-source work focuses on portfolio experiences, desktop-style shells, data visualization, and practical integrations (Node.js APIs, Google Sheets, serverless deploys on Vercel).
-## Featured projects
-| Project | Summary | Live |
-| --- | --- | --- |
-| [**desktop-portfolio**](https://github.com/hbslovely/desktop-portfolio) | Windows-style desktop shell with mini-apps, finance tools, and family utilities (Angular 17, PrimeNG, Node API) | [Demo](https://hpphat1992-v2.vercel.app/) |
-| [**phat-hong-info**](https://github.com/hbslovely/phat-hong-info) | Interactive CV and portfolio with i18n, skills visualization, and PDF export (Angular 19) | [Demo](https://hpphat1992.vercel.app/) |
-## Tech stack
-**Frontend:** Angular · TypeScript · SCSS · PrimeNG · Chart.js · D3  
-**Backend & data:** Node.js · REST · Google Sheets API · OAuth  
-**Platform:** Vercel · GitHub Actions · Jest / Karma
-## GitHub activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hbslovely&show_icons=true&theme=transparent&hide_border=true&count_private=false" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbslovely&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="150" />
+  <strong>Software Engineer</strong> · Angular & TypeScript
 </p>
-## Connect
-- Portfolio: [hpphat1992.vercel.app](https://hpphat1992.vercel.app/)
-- Profile: [github.com/hbslovely](https://github.com/hbslovely)
-- Email: hpphat1992@gmail.com
-- LinkedIn: [https://linkedin.com/in/your-handle](https://www.linkedin.com/in/hpphat1992/)
+
+<p align="center">
+  <a href="https://hpphat1992.vercel.app/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Portfolio&message=hpphat1992.vercel.app&color=0366d6&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://hpphat1992-v2.vercel.app/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Desktop+Portfolio&message=live&color=7c3aed&logo=angular&logoColor=white" alt="Desktop portfolio demo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/hbslovely?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/hbslovely?style=social" alt="GitHub stars" />
+</p>
+
+---
+
+### About
+
+I build interactive, production-oriented web applications with **Angular**, **TypeScript**, and modern UI patterns. Open-source work includes desktop-style portfolio shells, data visualization, and full-stack integrations (Node.js, Google Sheets, Vercel).
+
+### Featured projects
+
+**[desktop-portfolio](https://github.com/hbslovely/desktop-portfolio)** — Windows-style desktop shell with mini-apps, finance tools, and utilities (Angular 17, PrimeNG, Node API)  
+→ [Live demo](https://hpphat1992-v2.vercel.app/)
+
+**[phat-hong-info](https://github.com/hbslovely/phat-hong-info)** — Interactive CV and portfolio with i18n, skills charts, and PDF export (Angular 19)  
+→ [Live demo](https://hpphat1992.vercel.app/)
+
+### Tech stack
+
+```
+Angular · TypeScript · SCSS · PrimeNG · Node.js · Chart.js · D3 · Vercel · Google APIs
+```
+
+### Connect
+
+<p align="center">
+  <a href="https://hpphat1992.vercel.app/">Website</a>
+  ·
+  <a href="mailto:hpphat1992@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/hpphat1992/">LinkedIn</a>
+</p>
