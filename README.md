@@ -2,8 +2,7 @@
 **Software Engineer · Angular & TypeScript**
 [![Portfolio](https://img.shields.io/badge/Portfolio-hpphat1992.vercel.app-0366d6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hpphat1992.vercel.app/)
 [![Desktop demo](https://img.shields.io/badge/Desktop_Portfolio-live-7c3aed?style=for-the-badge&logo=angular&logoColor=white)](https://hpphat1992-v2.vercel.app/)
-</div>
----
+
 ## About
 I build interactive, production-oriented web applications with **Angular**, **TypeScript**, and modern UI patterns. My open-source work focuses on portfolio experiences, desktop-style shells, data visualization, and practical integrations (Node.js APIs, Google Sheets, serverless deploys on Vercel).
 ## Featured projects
